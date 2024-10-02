@@ -1,7 +1,7 @@
 1. Clone Repository
 
     ```
-    git clone https://github.com/roxyzc/tugas_days_18
+    git clone https://github.com/roxyzc/tugas_msib_days_18
     ```
 
 2. Copy `.env.example` to `.env` and modify according to your environment
