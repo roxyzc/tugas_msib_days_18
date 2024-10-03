@@ -25,10 +25,9 @@
     ```
     npm run dev
     ```
-6. Settings your Database in .env
-7. Run these commands to create the tables within the defined database and populate seed data
+6. Run these commands to create the tables within the defined database and populate seed data
 
     ```
     php artisan migrate --seed
     ```
-8. php artisan serve --port=8080
+7. php artisan serve --port=8080
